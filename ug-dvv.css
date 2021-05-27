@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.div1{
+    display: grid; 
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    padding: 20px 100px;
+}
+.section1{
+    background-color: antiquewhite; text-align: center;margin: 0px 2px 0px 2px;
+}
+.section2{
+    background-color: blue; text-align: center;  margin: 0px 2px 0px 2px;
+}
+.section3{
+    background-color: crimson; text-align: center;margin: 0px 2px 0px 2px;
+}
+.section4{
+    background-color: darkcyan; text-align: center;margin: 0px 2px 0px 2px;
+}
+.section5{
+    background-color: darkolivegreen; text-align: center;margin: 0px 2px 0px 2px;
+}
+.section6{
+    background-color: darkslategray; text-align: center; margin: 0px 2px 0px 2px;
+}
+.section7{
+    background-color: floralwhite; text-align: center; margin: 0px 2px 0px 2px;
+}
+.section8{
+    background-color: gold; text-align: center;margin: 0px 2px 0px 2px;
+}
